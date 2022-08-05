@@ -1,0 +1,10 @@
+.card{
+    width: 50%;
+    height: 500px;
+    background-image: url(https://wall.vn/wp-content/uploads/2020/04/hinh-anh-nha-trang-7.jpg);
+}
+.card-1{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
